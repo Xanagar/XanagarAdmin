@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e91211c2-b0e6-4c6c-b5e7-0c279442d369" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MillnerWoodruff/dashboard/index.html" afterPath="$PROJECT_DIR$/MillnerWoodruff/dashboard/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MillnerWoodruff/pages/blog/index.html" afterPath="$PROJECT_DIR$/MillnerWoodruff/pages/blog/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MillnerWoodruff/pages/directory/index.html" afterPath="$PROJECT_DIR$/MillnerWoodruff/pages/directory/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MillnerWoodruff/pages/home/index.html" afterPath="$PROJECT_DIR$/MillnerWoodruff/pages/home/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,7 +20,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MillnerWoodruff/pages/blog/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="1326">
               <caret line="260" column="0" lean-forward="false" selection-start-line="260" selection-start-column="0" selection-end-line="374" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -45,7 +40,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MillnerWoodruff/pages/directory/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="3350">
@@ -67,22 +62,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MillnerWoodruff/pages/home/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="270" column="121" lean-forward="false" selection-start-line="270" selection-start-column="70" selection-end-line="270" selection-end-column="121" />
+            <state relative-caret-position="663">
+              <caret line="192" column="61" lean-forward="false" selection-start-line="192" selection-start-column="61" selection-end-line="192" selection-end-column="61" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#7382#7389#1" expanded="true" />
-                <element signature="e#10279#10286#1" expanded="true" />
+                <element signature="e#7391#7398#1" expanded="true" />
+                <element signature="e#10297#10304#1" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#2;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#button#0;n#div#2;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#12532#12539#1" expanded="true" />
+                <element signature="e#12559#12566#1" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -172,10 +167,10 @@
         <option value="$PROJECT_DIR$/css/bootstrap-cosmo.css" />
         <option value="$PROJECT_DIR$/MillnerWoodruff/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/MillnerWoodruff/pages/home/index.html" />
         <option value="$PROJECT_DIR$/MillnerWoodruff/dashboard/index.html" />
         <option value="$PROJECT_DIR$/MillnerWoodruff/pages/blog/index.html" />
         <option value="$PROJECT_DIR$/MillnerWoodruff/pages/directory/index.html" />
+        <option value="$PROJECT_DIR$/MillnerWoodruff/pages/home/index.html" />
       </list>
     </option>
   </component>
@@ -474,12 +469,12 @@
       <option name="presentableId" value="Default" />
       <updated>1500514745036</updated>
       <workItem from="1500514746430" duration="12806000" />
-      <workItem from="1500593138582" duration="11175000" />
+      <workItem from="1500593138582" duration="11306000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23981000" />
+    <option name="totallyTimeSpent" value="24112000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="0" width="1936" height="1056" extended-state="6" />
@@ -618,11 +613,11 @@
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#7382#7389#1" expanded="true" />
-            <element signature="e#10279#10286#1" expanded="true" />
+            <element signature="e#7391#7398#1" expanded="true" />
+            <element signature="e#10297#10304#1" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#2;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#button#0;n#div#2;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#12532#12539#1" expanded="true" />
+            <element signature="e#12559#12566#1" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -681,28 +676,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MillnerWoodruff/pages/home/index.html">
+    <entry file="file://$PROJECT_DIR$/MillnerWoodruff/pages/directory/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="270" column="121" lean-forward="false" selection-start-line="270" selection-start-column="70" selection-end-line="270" selection-end-column="121" />
+        <state relative-caret-position="3350">
+          <caret line="370" column="32" lean-forward="false" selection-start-line="370" selection-start-column="32" selection-end-line="370" selection-end-column="32" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#7382#7389#1" expanded="true" />
-            <element signature="e#10279#10286#1" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#2;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#div#2;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#12532#12539#1" expanded="true" />
+            <element signature="e#6755#6762#1" expanded="true" />
+            <marker date="1500613045998" expanded="true" signature="10777:10794" ph="..." />
+            <marker date="1500613045998" expanded="true" signature="11276:11283" ph="×" />
+            <marker date="1500613045998" expanded="true" signature="11433:11451" ph="..." />
+            <marker date="1500613045998" expanded="true" signature="11548:11566" ph="..." />
+            <marker date="1500613045998" expanded="true" signature="11724:11741" ph="..." />
+            <marker date="1500613045998" expanded="true" signature="12234:12241" ph="×" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MillnerWoodruff/pages/blog/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="1326">
           <caret line="260" column="0" lean-forward="false" selection-start-line="260" selection-start-column="0" selection-end-line="374" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -721,22 +717,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MillnerWoodruff/pages/directory/index.html">
+    <entry file="file://$PROJECT_DIR$/MillnerWoodruff/pages/home/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3350">
-          <caret line="370" column="32" lean-forward="false" selection-start-line="370" selection-start-column="32" selection-end-line="370" selection-end-column="32" />
+        <state relative-caret-position="663">
+          <caret line="192" column="61" lean-forward="false" selection-start-line="192" selection-start-column="61" selection-end-line="192" selection-end-column="61" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#6755#6762#1" expanded="true" />
-            <marker date="1500613045998" expanded="true" signature="10777:10794" ph="..." />
-            <marker date="1500613045998" expanded="true" signature="11276:11283" ph="×" />
-            <marker date="1500613045998" expanded="true" signature="11433:11451" ph="..." />
-            <marker date="1500613045998" expanded="true" signature="11548:11566" ph="..." />
-            <marker date="1500613045998" expanded="true" signature="11724:11741" ph="..." />
-            <marker date="1500613045998" expanded="true" signature="12234:12241" ph="×" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#7391#7398#1" expanded="true" />
+            <element signature="e#10297#10304#1" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#2;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#2;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#12559#12566#1" expanded="true" />
           </folding>
         </state>
       </provider>
